@@ -18,3 +18,5 @@ What it does: Once the AI Agent finishes processing the input and generates a re
 The output: This node talks back to the Telegram API to send the AI's generated response straight back to the user's chat window.
 
 Summary of the Lifecycle A user messages to Telegram bot rightarrow The Trigger catches it rightarrow The AI Agent reads it, checks its Memory, asks OpenAI what to say rightarrow The Telegram Output node sends the reply back to the user.
+
+link:https://t.me/zovaaabot
